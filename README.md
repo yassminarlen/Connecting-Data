@@ -33,3 +33,7 @@
 >Pay close attention to the highlighted and underlined areas in the image, particularly to the bottom left corner. 
 
 7. **Select matching fields to create this relationship**
+Select the drop down menu and type in *FIPS* under each highlighted drop down menu
+
+![Matching Fields](https://github.com/yassminarlen/Connecting-Data/blob/main/Matching%20Fields.png?raw=true.png)
+
