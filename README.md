@@ -35,6 +35,7 @@
 7. **Select matching fields to create this relationship.** Click the drop down menu and type in *FIPS* repeat step for both of the highlighted drop down menus. 
 >This will create a successful connection, changing the red line to an orange one.
 
+>![Successful Connection](https://github.com/yassminarlen/Connecting-Data/blob/main/Successful%20Connection.png?raw=true.png)
 
 ![Matching Fields](https://github.com/yassminarlen/Connecting-Data/blob/main/Matching%20Fields.png?raw=true.png)
 
