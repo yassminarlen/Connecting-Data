@@ -23,3 +23,6 @@
 5. Right click on your mouse and hold it down to drag and drop the **Ranked Measure Data** table to the right side of the screen. 
 
 ![Drag and Drop](https://github.com/yassminarlen/Connecting-Data/blob/main/drag%20and%20drop.png?raw=true.png)
+
+6. Drag and drop **Additional Measure Data** table right next to **Ranked Measure Data** to create a connection between tables.
+**Be aware that the connection will be unsuccessful at first, *it will look like this.**
