@@ -36,6 +36,6 @@
 
 ![Matching Fields](https://github.com/yassminarlen/Connecting-Data/blob/main/Matching%20Fields.png?raw=true.png)
 
-8. **Repeat the process for *Outcomes & Factor Rankings* and *Outcomes & Factor Subrankings.*
+8. **Repeat the process for *Outcomes & Factor Rankings* and *Outcomes & Factor Subrankings.**
 
 ![Repeat for Outcomes-Subrankings](https://github.com/yassminarlen/Connecting-Data/blob/main/Repeating%20for%20Outcomes.png?raw=true.png)
