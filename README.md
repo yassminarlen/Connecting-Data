@@ -7,7 +7,7 @@
 **Pay special attention to the left column.** 
 ![Tableau Connect](https://github.com/yassminarlen/Connecting-Data/blob/main/Connecting%20Data.png?raw=true.png)
 
--Under the highlighted *Connect* left side of the Tableau screen, click the underlined *Microsoft Excel* option. 
+>Under the highlighted *Connect* left side of the Tableau screen, click the underlined *Microsoft Excel* option. 
 
 3. Take notice of the pop-up screen, click on the underlined option, then click *Open* which is highlighted on the bottom right of the pop-up screen.
 ![Connect Excel Sheet](https://github.com/yassminarlen/Connecting-Data/blob/main/Connecting%20Excel%20Sheet.png?raw=true.png)
