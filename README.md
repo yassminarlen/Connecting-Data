@@ -29,3 +29,7 @@
  -**Be aware that the connection will be unsuccessful at first**, *it will look like this.*
  
 ![First Attempt at Connection](https://github.com/yassminarlen/Connecting-Data/blob/main/First%20attempt%20at%20connection.png?raw=true.png)
+
+>Pay close attention to the highlighted and underlined areas in the image, particularly to the bottom left corner. 
+
+7. **Select matching fields to create this relationship**
