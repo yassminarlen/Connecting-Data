@@ -15,3 +15,5 @@
 **Be aware that the *executing query* pop-up screen means Tableau is working on performing the tasks you have assigned it to-do, some tasks or queries( a request for data results from your database or for action on the data, or both) may take longer than others. Do not fear!**
 
 >![Executing Query](https://github.com/yassminarlen/Connecting-Data/blob/main/executing%20query.png?raw=true.png)
+
+4. 
