@@ -26,4 +26,4 @@
 
 6. Drag and drop **Additional Measure Data** table right next to **Ranked Measure Data** to create a connection between tables.
 
->**Be aware that the connection will be unsuccessful at first, *it will look like this.**
+> **Be aware that the connection will be unsuccessful at first, *it will look like this.**
