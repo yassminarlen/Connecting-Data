@@ -27,3 +27,5 @@
 6. Drag and drop **Additional Measure Data** table right next to **Ranked Measure Data** to create a connection between tables.
 
  -**Be aware that the connection will be unsuccessful at first**, *it will look like this.*
+ 
+![First Attempt at Connection](https://github.com/yassminarlen/Connecting-Data/blob/main/First%20attempt%20at%20connection.png?raw=true.png)
