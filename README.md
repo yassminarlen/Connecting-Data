@@ -16,7 +16,7 @@
 
 >![Executing Query](https://github.com/yassminarlen/Connecting-Data/blob/main/executing%20query.png?raw=true.png)
 
-4. Before you start working on any tables make sure to check the box **Clean with Data Interperter** located on the top left colum of Tableau
+4. Before you start working on any tables make sure to check the box **Clean with Data Interperter** located on the top left column of Tableau.
 
 ![Clean Data](https://github.com/yassminarlen/Connecting-Data/blob/main/Clean%20with%20Data%20Int.png?raw=true.png)
 
