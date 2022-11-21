@@ -40,4 +40,4 @@
 
 ![Repeat for Outcomes-Subrankings](https://github.com/yassminarlen/Connecting-Data/blob/main/Repeating%20for%20Outcomes.png?raw=true.png)
 
-**You have created a web of tables to explore and create with.** 
+**You have created a web of tables to explore and create with!** 
