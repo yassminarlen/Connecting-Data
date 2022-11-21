@@ -5,4 +5,4 @@
 2. Launch Tableau on your laptop/desktop.
 
 >Pay special attention to the left column. 
-
+![Tableau Connect] (https://github.com/yassminarlen/Connecting-Data/blob/main/Connecting%20Data.png?raw=true.jpg)
